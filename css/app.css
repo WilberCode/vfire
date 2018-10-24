@@ -1,0 +1,53 @@
+.btn-sm{
+    margin-left: 4px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+td{
+    vertical-align: middle !important;
+}
+td:nth-child(1){
+    width: 5% !important;
+}
+td:nth-child(2){
+    width: 65% !important;
+} 
+td:nth-child(3){
+    text-align: end;
+    width: 30% !important;
+}
+.completado{
+    font-family:cursive;
+    color: gray;
+    text-decoration-line:line-through;
+}
+.dropdown-menu{
+    text-align: center;
+    padding: 2em;
+}
+.avatar{
+    text-align: center;
+    width: 60px;
+    border-radius: 50%;
+}
+.avatar-task{
+    width: 35px;
+}
+.avatar-name{
+    font-size: 14px;
+    font-weight: 500;
+    color: #365899;
+}
+.lead{
+    background-color: #eff1f3;
+    border-radius: 25px;
+    color: #1d2129;
+    font-size: 15px;
+    padding: .3em .5em;
+    font-weight: normal;
+    display: inline-block;
+}
+.editandoTarea{
+    margin-top: .3em;
+}
